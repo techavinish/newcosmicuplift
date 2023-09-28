@@ -1,0 +1,13 @@
+Sitemap: https://cosmicuplift/sitemap.xml
+
+User-agent: *
+UserAgent: *
+Allow: /*
+
+User-agent: AhrefsSiteAudit
+Allow: /
+
+User-agent: AhrefsBot
+Allow: /
+
+Disallow: /api/*
